@@ -1,8 +1,0 @@
-System.out.println("   ***   "+""+"   *****   ");
-System.out.println("***   ***  "+""+"   *****   ");
-System.out.println("   ***   "+""+"   *****   ");
-public class OPPSBannerApp {
-    public static void main(String[] args) {
-        
-    }
-}
